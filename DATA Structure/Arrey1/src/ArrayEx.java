@@ -1,3 +1,4 @@
+hiii
 public class ArrayEx {
 	int arr[] = null;//arrey creat kiya 
 	
